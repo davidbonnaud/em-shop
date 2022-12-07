@@ -24,7 +24,7 @@ sanity start
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Open [http://localhost:333] for local Sanity dashboard.
+Open [http://localhost:3333](http://localhost:3333) for local Sanity dashboard.
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
